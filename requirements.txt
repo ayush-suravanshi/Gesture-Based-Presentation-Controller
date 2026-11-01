@@ -1,0 +1,11 @@
+# Core Computer Vision & ML
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+
+# System Automation & Presentation Control
+pyautogui>=0.9.54
+
+# Testing Framework
+pytest>=7.4.0
+
